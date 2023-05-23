@@ -1,0 +1,40 @@
+<ErrorNull>
+  <insertAfter xpath="/traders/trader_item_groups/trader_item_group[@name='books']">
+		<trader_item_group name="especial_Missions">
+			<item name="qc_Trynda1"/>
+          <item name="qc_Insensatos"/>
+          <item name="qc_AbilidadT1"/>
+          <item name="qc_KillZombiesT1"/>
+          <item name="qc_AbilidadT2T1"/>
+          <item name="qc_KillsOniT2"/>
+          <item name="qc_AbilidadT3T1"/>
+          <item name="qc_TitanesT3"/>
+          <item name="qc_BossKillerT4"/>
+          <item name="qc_AbilidadT4T1"/>
+		</trader_item_group>
+	</insertAfter>
+
+  <insertBefore xpath="/traders/trader_info[@id='1']/trader_items/item[@group='modAllT1SecretStash']">
+		<item group="especial_Missions" count="1"/>
+	</insertBefore>
+
+    
+    <insertBefore xpath="/traders/trader_info[@id='2']/trader_items/item[@group='modAllT1SecretStash']">
+		<item group="especial_Missions" count="1"/>
+	</insertBefore>
+
+    
+    <insertBefore xpath="/traders/trader_info[@id='6']/trader_items/item[@group='modAllT1SecretStash']">
+		<item group="especial_Missions" count="1"/>
+	</insertBefore>
+
+    
+    <insertBefore xpath="/traders/trader_info[@id='7']/trader_items/item[@group='modAllT1SecretStash']">
+		<item group="especial_Missions" count="1"/>
+	</insertBefore>
+
+    
+    <insertBefore xpath="/traders/trader_info[@id='8']/trader_items/item[@group='modAllT1SecretStash']">
+		<item group="especial_Missions" count="1"/>
+	</insertBefore>
+</ErrorNull>

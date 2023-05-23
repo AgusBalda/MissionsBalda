@@ -1,0 +1,106 @@
+<ErrorNull>
+	<append xpath="/lootcontainers">
+
+                <lootgroup name="resourceEssenceOfDeathReward" count="all">
+                        <item name="resourceEssenceOfDeath" count="1"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward5" count="all">
+                        <item name="resourceEssenceOfDeath" count="5"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward10" count="all">
+                        <item name="resourceEssenceOfDeath" count="10"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward15" count="all">
+                        <item name="resourceEssenceOfDeath" count="15"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward20" count="all">
+                        <item name="resourceEssenceOfDeath" count="20"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward25" count="all">
+                        <item name="resourceEssenceOfDeath" count="25"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward40" count="all">
+                        <item name="resourceEssenceOfDeath" count="40"/>
+                </lootgroup>
+
+                <lootgroup name="resourceEssenceOfDeathReward50" count="all">
+                        <item name="resourceEssenceOfDeath" count="50"/>
+                </lootgroup>
+                
+                <lootgroup name="resourceEssenceOfLifeReward" count="all">
+                        <item name="resourceEssenceOfLife" count="1"/>
+                </lootgroup>
+
+                
+                <lootgroup name="resourceEssenceOfPurgatoryReward" count="all">
+                        <item name="resourceEssenceOfPurgatory" count="1"/>
+                </lootgroup>
+                
+        </append>
+        <!-- 
+        se puede encontrar en tesoros las probabilidades son medias bajas y altas
+        algunas son low-med-high-veryLow-medLow-medHigh-veryHigh probablemente ese ultimo no existe
+        -->
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupValuablesExtraLarge']">
+                <item name="qc_AbilidadT1" loot_prob_template="medHigh" />
+                <item name="qc_KillZombiesT1" loot_prob_template="medHigh" />
+                <item name="qc_AbilidadT2T1" loot_prob_template="med" />
+                <item name="qc_KillsOniT2" loot_prob_template="med" />
+                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" />
+                <item name="qc_TitanesT3" loot_prob_template="medLow" />
+                <item name="qc_BossKillerT4" loot_prob_template="low" />
+                <item name="qc_AbilidadT4T1" loot_prob_template="low" />
+                <item name="qc_Trynda1" loot_prob_template="veryLow" />
+                <item name="qc_Insensatos" loot_prob_template="veryLow" />
+        </append>
+        
+        <!-- el grupo de airdrop si modificar los otros ya existentes groupAirDrop-->
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupAirDrop']">
+                <item name="qc_AbilidadT1" loot_prob_template="medHigh" force_prob="true"/>
+                <item name="qc_KillZombiesT1" loot_prob_template="medHigh" force_prob="true"/>
+                <item name="qc_AbilidadT2T1" loot_prob_template="med" force_prob="true"/>
+                <item name="qc_KillsOniT2" loot_prob_template="med" force_prob="true"/>
+                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_TitanesT3" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_BossKillerT4" loot_prob_template="low" force_prob="true"/>
+                <item name="qc_AbilidadT4T1" loot_prob_template="low" force_prob="true"/>
+                <item name="qc_Trynda1" loot_prob_template="veryLow" force_prob="true"/>
+                <item name="qc_Insensatos" loot_prob_template="veryLow" force_prob="true"/>
+        </append>
+
+        <!-- probabilidad de aparecer en cofres de misiones -->
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT5']">
+                <item name="qc_Trynda1" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_Insensatos" loot_prob_template="medLow" force_prob="true"/>
+        </append>
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT4']">
+                <item name="qc_BossKillerT4" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_AbilidadT4T1" loot_prob_template="medLow" force_prob="true"/>
+        </append>
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT3']">
+                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_TitanesT3" loot_prob_template="medLow" force_prob="true"/>
+        </append>
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT2']">
+                <item name="qc_AbilidadT2T1" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_KillsOniT2" loot_prob_template="medLow" force_prob="true"/>
+        </append>
+
+        <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT1']">
+                <item name="qc_AbilidadT1" loot_prob_template="medLow" force_prob="true"/>
+                <item name="qc_KillZombiesT1" loot_prob_template="medLow" force_prob="true"/>
+        </append>
+
+</ErrorNull>

@@ -1,0 +1,142 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate
+
+qc_Trynda1,items,Quest - Challenge,,,Trynda,,
+challenge_Trynda1_desc,items,Quest - Challenge,,,Trynda necesita ayuda para controlar bestias poderosas ve a la ubicacion y derrotalas..,,
+challenge_Trynda1,Quest,Challenge Info,,,Trynda
+challenge_Trynda1_subtitle,Quest,Challenge Info,,,Enfrentate a una bestia poderosa
+challenge_Trynda1_offer,Quest,Challenge Info,,,"Trynda necesitas ayuda para controlar bestias poderosas ve a la ubicacion y derrotalas"
+challenge_Trynda1_completion,,Quest Info,New,,encontraste de donde estan apareciendo estas abominaciones, ve a la direccion indicada para enfrentarte a los creadores,,,,
+
+
+qc_Trynda2,items,Quest - Challenge,,,Trynda II,,
+challenge_Trynda2_desc,items,Quest - Challenge,,,encontraste de donde estan apareciendo estas abominaciones, ve a la direccion indicada para enfrentarte a los creadores..,,
+challenge_Trynda2,Quest,Challenge Info,,,Trynda II
+challenge_Trynda2_offer,Quest,Challenge Info,,,"encontraste de donde estan apareciendo estas abominaciones, ve a la direccion indicada para enfrentarte a los creadores"
+challenge_Trynda2_subtitle,Quest,Challenge Info,,,Mata a los creadores
+challenge_Trynda2_completion,,Quest Info,New,,el Lider no estaba entre ellos Pero ahora sabes donde esta ve y acaba con esto,,,,
+
+qc_Trynda3,items,Quest - Challenge,,,Trynda III,,
+challenge_Trynda3_desc,items,Quest - Challenge,,,el Lider no estaba entre ellos Pero ahora sabes donde esta ve y acaba con esto..,,
+challenge_Trynda3,Quest,Challenge Info,,,Trynda III
+challenge_Trynda3_subtitle,Quest,Challenge Info,,,Mata al Lider
+challenge_Trynda3_offer,Quest,Challenge Info,,,"encuentra al Lider y termina con estos maniaticos"
+challenge_Trynda3_completion,,Quest Info,New,,Buen trabajo Trynda esta muy satisfecho y te recompensara adecuadamente! \n\n toma tu recompensa alimaña.,,,,
+
+qc_Insensatos,items,Quest - Challenge,,,Insensatos,,
+challenge_Insensatos_desc,items,Quest - Challenge,,,estos Insensatos creen que van apoder invadir este mundo \n\n enseñales que sus vidas valen menos que las nuestras..,,
+challenge_Insensatos,Quest,Challenge Info,,,Insensatos
+challenge_Insensatos_subtitle,Quest,Challenge Info,,,Mata a los Insensatos
+challenge_Insensatos_offer,Quest,Challenge Info,,,"Elimina a cada uno de estos Insensatos y traeme sus cabezas"
+challenge_Insensatos_completion,,Quest Info,New,,Buen trabajo se ve que lograste tu cometido espero que esos Insensatos no molesten mas! \n\n toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT1,items,Quest - Challenge,,,Abilidad,,
+challenge_AbilidadT1_desc,items,Quest - Challenge,,,demuestra que no necesitas un arma de fuego para sobrevivir \n\n mata a 10 zombies con el arco primitivo..,,
+challenge_AbilidadT1,Quest,Challenge Info,,,Abilidad
+challenge_AbilidadT1_subtitle,Quest,Challenge Info,,,Mata Zombies con el arco primitivo
+challenge_AbilidadT1_offer,Quest,Challenge Info,,,"demuestra habilidad matando zombies con el arco"
+challenge_AbilidadT1_completion,,Quest Info,New,,eres un gran arquero y tiene gran habilidad con el arco primitivo! podras hacer el siguiente reto de Abilidad? \n\n toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT2,items,Quest - Challenge,,,Abilidad II,,
+challenge_AbilidadT2_desc,items,Quest - Challenge,,,Hay algo mas lindo que matar zombies con un bate de béisbol \n\n mata a 10 zombies con el bate de béisbol..,,
+challenge_AbilidadT2,Quest,Challenge Info,,,Abilidad II
+challenge_AbilidadT2_subtitle,Quest,Challenge Info,,,Mata Zombies con el bate de béisbol
+challenge_AbilidadT2_offer,Quest,Challenge Info,,,"demuestra habilidad matando zombies con el bate de béisbol"
+challenge_AbilidadT2_completion,,Quest Info,New,,eres un gran bateador casi como el gran nigan! podras hacer el siguiente reto de Abilidad? \n\n toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT3,items,Quest - Challenge,,,Abilidad III,,
+challenge_AbilidadT3_desc,items,Quest - Challenge,,,Las armas modernas estan sobrevaloradas usa una metralladora de tubos \n\n mata a 2 mantis con la metralladora de tubos..,,
+challenge_AbilidadT3,Quest,Challenge Info,,,Abilidad III
+challenge_AbilidadT3_subtitle,Quest,Challenge Info,,,Mata mantis con la metralladora de tubos
+challenge_AbilidadT3_offer,Quest,Challenge Info,,,"demuestra habilidad matando mantis con la metralladora de tubos"
+challenge_AbilidadT3_completion,,Quest Info,New,,Increaible no te vi capas pero lo lograste realmente no dependes de la tecnologia!\n\n toma tu recompensa alimaña.,,,,
+
+qc_KillZombiesT1,items,Quest - Challenge,,,Kill Zombies,,
+challenge_KillZombiesT1_desc,items,Quest - Challenge,,,estoy teniendo problemas con los zombies despeja un poco la zona y te recompensare con 5 viales de la muerte \n\n mata a 100 zombies..,,
+challenge_KillZombiesT1,Quest,Challenge Info,,,Kill Zombies
+challenge_KillZombiesT1_subtitle,Quest,Challenge Info,,,Mata a 100 zombies
+challenge_KillZombiesT1_offer,Quest,Challenge Info,,,"Depeja la zona, mata a 100 zombies"
+challenge_KillZombiesT1_completion,,Quest Info,New,,Muchas gracias ahora puedo estar mas tranquilo!\n\n toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT2T1,items,Quest - Challenge,,,Abilidad 2,,
+challenge_AbilidadT2T1_desc,items,Quest - Challenge,,,Demuestra tus Abilidades con la AK47 Mata al zombie Psycho con la AK47 \n\n el zombie Psycho va vestido de blanco parece un doctor..,,
+challenge_AbilidadT2T1,Quest,Challenge Info,,,Abilidad 2
+challenge_AbilidadT2T1_subtitle,Quest,Challenge Info,,,Mata al zombie Psycho con la AK47
+challenge_AbilidadT2T1_offer,Quest,Challenge Info,,,"Mata al zombie Psycho con la AK47"
+challenge_AbilidadT2T1_completion,,Quest Info,New,,Genial eres bueno rastreando y usando la AK47! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT2T2,items,Quest - Challenge,,,Abilidad 2 II,,
+challenge_AbilidadT2T2_desc,items,Quest - Challenge,,,Demuestra tus Abilidades con el rifle de cazador Mata al zombie Parasite con el rifle de cazador \n\n el zombie Parasite tiene cuchillos en las manos y una aleta en la espalda..,,
+challenge_AbilidadT2T2,Quest,Challenge Info,,,Abilidad 2 II
+challenge_AbilidadT2T2_subtitle,Quest,Challenge Info,,,Mata al zombie Parasite con el rifle de cazador
+challenge_AbilidadT2T2_offer,Quest,Challenge Info,,,"Mata al zombie Parasite con el rifle de cazador"
+challenge_AbilidadT2T2_completion,,Quest Info,New,,Genial eres muy bueno rastreando y usando el rifle de cazador! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT2T3,items,Quest - Challenge,,,Abilidad 2 III,,
+challenge_AbilidadT2T3_desc,items,Quest - Challenge,,,Demuestra tus Abilidades con la Escopeta de doble cañon Mata al zombie Pogo con la Escopeta de doble cañon \n\n el zombie Pogo lleva un casco de minero y tine un gran poder de salto ademas de ser muy alto..,,
+challenge_AbilidadT2T3,Quest,Challenge Info,,,Abilidad 2 III
+challenge_AbilidadT2T3_subtitle,Quest,Challenge Info,,,Mata al zombie Pogo con la Escopeta de doble cañon
+challenge_AbilidadT2T3_offer,Quest,Challenge Info,,,"Mata al zombie Pogo con la Escopeta de doble cañon"
+challenge_AbilidadT2T3_completion,,Quest Info,New,,Genial un Exelente rastreando y usando la Ecopeta de doble cañon! \n\n Toma tu recompensa alimaña.,,,,
+
+qc_KillsOniT2,items,Quest - Challenge,,,Matar Onis,,
+challenge_KillsOniT2_desc,items,Quest - Challenge,,,Los Onis son bestias muy fuertes y estan causando problemas con el ganado encuntralas y matalas \n\n normalmente van en grupos numerosos ten cuidado..,,
+challenge_KillsOniT2,Quest,Challenge Info,,,Matar Onis
+challenge_KillsOniT2_subtitle,Quest,Challenge Info,,,Encuntra y mata a los Onis
+challenge_KillsOniT2_offer,Quest,Challenge Info,,,"Encuntra y mata a los Onis"
+challenge_KillsOniT2_completion,,Quest Info,New,,ya los mataste? Increaible eres un verdadero guerrero gracias! \n\n Toma tu recompensa alimaña.,,,,
+
+qc_TitanesT3,items,Quest - Challenge,,,Malditos Titanes,,
+challenge_TitanesT3_desc,items,Quest - Challenge,,,Los Titanes son poderosas criaturas no sera facil \n\n ten cuidado si te alejas mucho el titan escapara..,,
+challenge_TitanesT3,Quest,Challenge Info,,,Malditos Titanes
+challenge_TitanesT3_subtitle,Quest,Challenge Info,,,Encuntra y Mata a los Titanes
+challenge_TitanesT3_offer,Quest,Challenge Info,,,"Encuntra y Mata a los Titanes"
+challenge_TitanesT3_completion,,Quest Info,New,,Eres bueno, tiene potencial! \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT3T1,items,Quest - Challenge,,,Abilidad 3,,
+challenge_AbilidadT3T1_desc,items,Quest - Challenge,,,Es muy facil matar zombies cuando el espacio es el adecuado pero que pasa cuando no tienes donde uir..,,
+challenge_AbilidadT3T1,Quest,Challenge Info,,,Abilidad 3
+challenge_AbilidadT3T1_subtitle,Quest,Challenge Info,,,Mata los zombies sin moverte
+challenge_AbilidadT3T1_offer,Quest,Challenge Info,,,"demuestra que el espacio que te rodea no define tus habilidades recuerda no moverte luego de empezar la mision"
+challenge_AbilidadT3T1_completion,,Quest Info,New,,Exelente se muestra que el espacio no es un problema para ti! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT3T2,items,Quest - Challenge,,,Abilidad 3 II,,
+challenge_AbilidadT3T2_desc,items,Quest - Challenge,,,Es muy facil matar Titanes Con armas de gran cadencia y capacidad \n\n depuestra tu abilidad para matar titanes usando un rifle de palanca..,,
+challenge_AbilidadT3T2,Quest,Challenge Info,,,Abilidad 3 II
+challenge_AbilidadT3T2_subtitle,Quest,Challenge Info,,,Mata Titanes con el rifle de palanca
+challenge_AbilidadT3T2_offer,Quest,Challenge Info,,,"Mata Titanes con el rifle de palanca"
+challenge_AbilidadT3T2_completion,,Quest Info,New,,realmente eres diestro en armas de precision! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT3T3,items,Quest - Challenge,,,Abilidad 3 III,,
+challenge_AbilidadT3T3_desc,items,Quest - Challenge,,,escuchaste hablar sobre un zombie que le gusta las peleas cuerpo a cuerpo mata a 3 de ellos con los nudillos de acero \n\n es un zombie rojo y corpulento Zombie Wrestler..,,
+challenge_AbilidadT3T3,Quest,Challenge Info,,,Abilidad 3 III
+challenge_AbilidadT3T3_subtitle,Quest,Challenge Info,,,Mata 3 zombie Wrestler con los nudillos de acero
+challenge_AbilidadT3T3_offer,Quest,Challenge Info,,,"Mata 3 zombie Wrestler con los nudillos de acero"
+challenge_AbilidadT3T3_completion,,Quest Info,New,,eres una maquina de golpes!\n\n Toma tu recompensa alimaña.,,,,
+
+qc_BossKillerT4,items,Quest - Challenge,,,Mata Bosses,,
+challenge_BossKillerT4_desc,items,Quest - Challenge,,,Mata los jefes de esta lista \n\n tienes que ir preparado porque algunos de ellos son realmente un problema..,,
+challenge_BossKillerT4,Quest,Challenge Info,,,Mata Bosses
+challenge_BossKillerT4_subtitle,Quest,Challenge Info,,,Mata los jefes de la lista
+challenge_BossKillerT4_offer,Quest,Challenge Info,,,"Mata los jefes de la lista"
+challenge_BossKillerT4_completion,,Quest Info,New,,Buen trabajo ahora los zombies son mas debiles!\n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT4T1,items,Quest - Challenge,,,Abilidad 4,,
+challenge_AbilidadT4T1_desc,items,Quest - Challenge,,,mata a 3 Juggernaut con la arma Rifle de asalto táctico..,,
+challenge_AbilidadT4T1,Quest,Challenge Info,,,Abilidad 4
+challenge_AbilidadT4T1_subtitle,Quest,Challenge Info,,,mata a 3 Juggernaut con la Rifle de asalto táctico
+challenge_AbilidadT4T1_offer,Quest,Challenge Info,,,"mata a un Juggernaut con la arma Rifle de asalto táctico"
+challenge_AbilidadT4T1_completion,,Quest Info,New,,Eres bueno con las armas! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT4T2,items,Quest - Challenge,,,Abilidad 4 II,,
+challenge_AbilidadT4T2_desc,items,Quest - Challenge,,,los zombies que vuelan son una molestia no se puede estar tranquilo ni en el techo de una casa mata a varios de estos zombies..,,
+challenge_AbilidadT4T2,Quest,Challenge Info,,,Abilidad 4 II
+challenge_AbilidadT4T2_subtitle,Quest,Challenge Info,,,Mata zombies voladores
+challenge_AbilidadT4T2_offer,Quest,Challenge Info,,,"los zombies que vuelan son una molestia no se puede estar tranquilo ni en el techo de una casa mata a varios de estos zombies"
+challenge_AbilidadT4T2_completion,,Quest Info,New,,Increaible eres muy preciso con las armas se nota que no te falla el pulso! \n Ahora estas listo para tu siguiente reto. \n\n Toma tu recompensa alimaña.,,,,
+
+qc_AbilidadT4T3,items,Quest - Challenge,,,Abilidad 4 III,,
+challenge_AbilidadT4T3_desc,items,Quest - Challenge,,,muchas balas mucha cadencia mucho daño mata a 300 zombies con una m60..,,
+challenge_AbilidadT4T3,Quest,Challenge Info,,,Abilidad 4 III
+challenge_AbilidadT4T3_subtitle,Quest,Challenge Info,,,Mata 300 zombies con la m60
+challenge_AbilidadT4T3_offer,Quest,Challenge Info,,,"muchas balas mucha cadencia mucho daño mata a 300 zombies con una m60"
+challenge_AbilidadT4T3_completion,,Quest Info,New,,eres diestro con la m60 y no solo eso despejaste una gran zona de estos moustros!\n\n Toma tu recompensa alimaña.,,,,

@@ -1,0 +1,103 @@
+<configs>
+	<append xpath="/items">
+		<item name="qc_Trynda1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_Trynda1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_Trynda1"/>
+			</property>
+			<property name="EconomicValue" value="600000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_Insensatos">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_Insensatos_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_Insensatos"/>
+			</property>
+			<property name="EconomicValue" value="600000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_AbilidadT1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_AbilidadT1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_AbilidadT1"/>
+			</property>
+			<property name="EconomicValue" value="100000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_KillZombiesT1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_KillZombiesT1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_KillZombiesT1"/>
+			</property>
+			<property name="EconomicValue" value="100000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_AbilidadT2T1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_AbilidadT2T1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_AbilidadT2T1"/>
+			</property>
+			<property name="EconomicValue" value="200000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_KillsOniT2">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_KillsOniT2_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_KillsOniT2"/>
+			</property>
+			<property name="EconomicValue" value="200000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_AbilidadT3T1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_AbilidadT3T1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_AbilidadT3T1"/>
+			</property>
+			<property name="CustomIconTint" value="ff8d00"/>
+			<property name="EconomicValue" value="300000"/>
+		</item>
+
+		<item name="qc_TitanesT3">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_TitanesT3_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_TitanesT3"/>
+			</property>
+			<property name="EconomicValue" value="300000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_BossKillerT4">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_BossKillerT4_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_BossKillerT4"/>
+			</property>
+			<property name="EconomicValue" value="500000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+
+		<item name="qc_AbilidadT4T1">
+			<property name="Extends" value="questMaster"/>
+			<property name="DescriptionKey" value="challenge_AbilidadT4T1_desc"/>
+			<property class="Action0">
+			<property name="QuestGiven" value="challenge_AbilidadT4T1"/>
+			</property>
+			<property name="EconomicValue" value="500000"/>
+			<property name="CustomIconTint" value="ff8d00"/>
+		</item>
+	</append>
+</configs>
