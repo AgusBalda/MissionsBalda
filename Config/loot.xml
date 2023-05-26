@@ -42,6 +42,46 @@
                         <item name="resourceEssenceOfPurgatory" count="1"/>
                 </lootgroup>
                 
+                <insertAfter xpath="//lootgroup[@name='empty']">
+                        <lootgroup name="groupMissionBaldaT5" count="1">
+                                <item name="qc_Insensatos"/>
+                                <item name="qc_Trynda1"/>
+                        </lootgroup>
+
+                        <lootgroup name="groupMissionBaldaT4" count="1">
+                                <item name="qc_BossKillerT4"/>
+                                <item name="qc_AbilidadT4T1"/>
+                        </lootgroup>
+
+                        <lootgroup name="groupMissionBaldaT3" count="1">
+                                <item name="qc_TitanesT3"/>
+                                <item name="qc_AbilidadT3T1"/>
+                        </lootgroup>
+
+                        <lootgroup name="groupMissionBaldaT2" count="1">
+                                <item name="qc_AbilidadT2T1"/>
+                                <item name="qc_KillsOniT2"/>
+                        </lootgroup>
+
+                        <lootgroup name="groupMissionBaldaT1" count="1">
+                                <item name="qc_KillZombiesT1"/>
+                                <item name="qc_AbilidadT1"/>
+                        </lootgroup>
+                        
+                        <lootgroup name="groupAllMisions" count="1">
+                                <item name="qc_AbilidadT1" loot_prob_template="medHigh" force_prob="true"/>
+                                <item name="qc_KillZombiesT1" loot_prob_template="medHigh" force_prob="true"/>
+                                <item name="qc_AbilidadT2T1" loot_prob_template="med" force_prob="true"/>
+                                <item name="qc_KillsOniT2" loot_prob_template="med" force_prob="true"/>
+                                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" force_prob="true"/>
+                                <item name="qc_TitanesT3" loot_prob_template="medLow" force_prob="true"/>
+                                <item name="qc_BossKillerT4" loot_prob_template="low" force_prob="true"/>
+                                <item name="qc_AbilidadT4T1" loot_prob_template="low" force_prob="true"/>
+                                <item name="qc_Trynda1" loot_prob_template="veryLow" force_prob="true"/>
+                                <item name="qc_Insensatos" loot_prob_template="veryLow" force_prob="true"/>
+                        </lootgroup>
+                </insertAfter >
+
         </append>
         <!-- 
         se puede encontrar en tesoros las probabilidades son medias bajas y altas
@@ -49,58 +89,35 @@
         -->
 
         <append xpath="/lootcontainers/lootgroup[@name='groupValuablesExtraLarge']">
-                <item name="qc_AbilidadT1" loot_prob_template="medHigh" />
-                <item name="qc_KillZombiesT1" loot_prob_template="medHigh" />
-                <item name="qc_AbilidadT2T1" loot_prob_template="med" />
-                <item name="qc_KillsOniT2" loot_prob_template="med" />
-                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" />
-                <item name="qc_TitanesT3" loot_prob_template="medLow" />
-                <item name="qc_BossKillerT4" loot_prob_template="low" />
-                <item name="qc_AbilidadT4T1" loot_prob_template="low" />
-                <item name="qc_Trynda1" loot_prob_template="veryLow" />
-                <item name="qc_Insensatos" loot_prob_template="veryLow" />
+                <Item group="groupMissionBaldaT5" count="1" loot_prob_template="med" force_prob="true"//>
         </append>
         
         <!-- el grupo de airdrop si modificar los otros ya existentes groupAirDrop-->
 
         <append xpath="/lootcontainers/lootgroup[@name='groupAirDrop']">
-                <item name="qc_AbilidadT1" loot_prob_template="medHigh" force_prob="true"/>
-                <item name="qc_KillZombiesT1" loot_prob_template="medHigh" force_prob="true"/>
-                <item name="qc_AbilidadT2T1" loot_prob_template="med" force_prob="true"/>
-                <item name="qc_KillsOniT2" loot_prob_template="med" force_prob="true"/>
-                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_TitanesT3" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_BossKillerT4" loot_prob_template="low" force_prob="true"/>
-                <item name="qc_AbilidadT4T1" loot_prob_template="low" force_prob="true"/>
-                <item name="qc_Trynda1" loot_prob_template="veryLow" force_prob="true"/>
-                <item name="qc_Insensatos" loot_prob_template="veryLow" force_prob="true"/>
+                <Item group="groupAllMisions" count="2" loot_prob_template="med" force_prob="true"//>
         </append>
 
         <!-- probabilidad de aparecer en cofres de misiones -->
 
         <append xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT5']">
-                <item name="qc_Trynda1" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_Insensatos" loot_prob_template="medLow" force_prob="true"/>
+                <Item group="groupMissionBaldaT5" count="1" loot_prob_template="med" force_prob="true"//>
         </append>
 
         <append xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT4']">
-                <item name="qc_BossKillerT4" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_AbilidadT4T1" loot_prob_template="medLow" force_prob="true"/>
+                <Item group="groupMissionBaldaT4" count="1" loot_prob_template="med" force_prob="true"//>
         </append>
 
         <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT3']">
-                <item name="qc_AbilidadT3T1" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_TitanesT3" loot_prob_template="medLow" force_prob="true"/>
+                <Item group="groupMissionBaldaT3" count="1" loot_prob_template="veryLow" force_prob="true"/>
         </append>
 
         <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT2']">
-                <item name="qc_AbilidadT2T1" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_KillsOniT2" loot_prob_template="medLow" force_prob="true"/>
+                <Item group="groupMissionBaldaT2" count="1" loot_prob_template="veryLow" force_prob="true"/>
         </append>
 
         <append xpath="/lootcontainers/lootgroup[@name='groupReinforcedChestT1']">
-                <item name="qc_AbilidadT1" loot_prob_template="medLow" force_prob="true"/>
-                <item name="qc_KillZombiesT1" loot_prob_template="medLow" force_prob="true"/>
+                <Item group="groupMissionBaldaT1" count="1" loot_prob_template="veryLow" force_prob="true"/>
         </append>
 
 </ErrorNull>
